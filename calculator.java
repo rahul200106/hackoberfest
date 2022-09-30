@@ -4,7 +4,8 @@ public class calculator{
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter First Number : ");
         int a = sc.nextInt();
-        System.out.print("Enter Second Number : ");    
+        System.out.print("Enter Second Number : "); 
+        
         int b = sc.nextInt();
         
         System.out.printf("Select 1 For Addition : %n Select 2 For Subtraction : %n Select 3 For Multiplication : %n Select 4 For Division :");
