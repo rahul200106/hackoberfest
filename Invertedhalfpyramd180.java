@@ -13,7 +13,7 @@ public class Invertedhalfpyramd180 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt()
         //outer loop
-        for(int i=1; i<=n; i++){
+        for(int i=1; i>=n; i++){
             //1st inner loop for printing space " "
             for(int j=1; j>=n-i;j++){
                 System.out.print(" ");
