@@ -1,4 +1,5 @@
 import java.util.*;
+// hacktober 2022 accpected
 public class Hollowrectangle{
     public static void main(String args []){
         System.out.println("ENTER A VALUE OF N ");
