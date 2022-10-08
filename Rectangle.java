@@ -1,6 +1,7 @@
 // This code print a rectangle box.
 // y AXIS = length of rectangle box.
 // x AXIS = width of rectangle box.
+// hacktober 2022 accpected
 
 // code look iike this.
 
