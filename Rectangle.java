@@ -4,7 +4,7 @@
 // hacktober 2022 accpected
 
 // code look iike this.
-
+// hacktober 2022 accpected
 // whan y AXIS is 4 and x AXIS 5.
 // ******
 // ******
