@@ -1,5 +1,6 @@
 // This code print following code
 // hacktober 2022 accpected
+// hacktober 2022 accpected
 // *
 // **
 // ***
