@@ -1,4 +1,5 @@
 // hacktober 2022 accpected
+// hacktober 2022 accpected
 import java.util.*;
 public class calculator{
     public static void main(String agrs[]){
